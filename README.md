@@ -31,7 +31,7 @@ print('Swapped values are:',a,b)
 ```
 ## OutPut:
 
-![Output](./swapping.png)
+![Output](./swapping-min.png)
 
 
 
